@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+img {
+  height: 450px;
+  width: 850px;
+}
+
+h1 {
+  color: chartreuse;
+}
+div {
+  background-color: cornflowerblue;
+  padding: 30px;
+  text-align: center;
+}
